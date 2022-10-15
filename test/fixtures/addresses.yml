@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  typeAddress: MyString
+  phone: MyString
+  zipcode: MyString
+  address: MyString
+  complement: MyString
+  uf: MyString
+  city: MyString
+  dtIncatu: 2022-10-13 10:38:11
+  status: MyString
+
+two:
+  typeAddress: MyString
+  phone: MyString
+  zipcode: MyString
+  address: MyString
+  complement: MyString
+  uf: MyString
+  city: MyString
+  dtIncatu: 2022-10-13 10:38:11
+  status: MyString

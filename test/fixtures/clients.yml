@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  typeClient: MyString
+  cpf: MyString
+  cnpj: MyString
+  nomeCleint: MyString
+  nameFantasy: MyString
+  status: MyString
+
+two:
+  typeClient: MyString
+  cpf: MyString
+  cnpj: MyString
+  nomeCleint: MyString
+  nameFantasy: MyString
+  status: MyString

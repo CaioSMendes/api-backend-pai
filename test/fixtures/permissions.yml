@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dtIncatu: 2022-10-13 14:59:18
+  status: MyString
+
+two:
+  dtIncatu: 2022-10-13 14:59:18
+  status: MyString
